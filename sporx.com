@@ -79,7 +79,6 @@ MONSTERMASH – Monster verir
 Hava Durumu değiştirme hileleri
 
 
-
 PLEASANTLYWARM – Güneşli hava
 TOODAMNHOT – Çok güneşli hava
 ALNSFMZO – Bulutlu hava
