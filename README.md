@@ -1,2 +1,3 @@
-# GtaSaHileler
+# GTA San Andreas Hileleri 2022 (PC ve Mac)
+## Rockstar Games imzasıyla 2004 yılında yayınlanan ve oyun dünyasına damga vuran efsane yapım: GTA San Andreas hileleri ile karşınızdayız.
 https://t.me/reklamligi Grand Theft Auto: San Andreas hile kodları GTA San Andreas’ın PC ve Mac sürümünde yer alan tüm hile kodlarını sizler için bir araya getirdik. Bu hileleri çalıştırabilmek için oyun sırasında aşağıda yer alan ilgili kodları yazın. Ardından o keyifli deneyimin tadını çıkarın! Rockstar Games imzasıyla 2004’de yayınlanan Grand Theft Auto: San Andreas oyunu GTA serisinin beşinci sürümü olarak karşımıza çıktı. Aksiyon ve macera temalı yapım ilk olarak PlayStation 2 için yayınlandı. Ardından PC ve Xbox cihazlarına da geldi: Zorlu görevleri daha rahat bir şekilde tamamlamak ve oyunda daha eğlenceli vakit geçirmek isteyenler için GTA San Andres hileleri ile karşınızdayız.
